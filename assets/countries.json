@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Vanuatu",
+        "code": "VU",
+        "emoji": "🇻🇺",
+        "image": "https://flagcdn.com/w320/vu.png",
+        "dialCode": "+678"
+    },
+    {
+        "name": "Vatican City",
+        "code": "VA",
+        "emoji": "🇻🇦",
+        "image": "https://flagcdn.com/w320/va.png",
+        "dialCode": "+379"
+    },
+    {
+        "name": "Venezuela",
+        "code": "VE",
+        "emoji": "🇻🇪",
+        "image": "https://flagcdn.com/w320/ve.png",
+        "dialCode": "+58"
+    },
+    {
+        "name": "Vietnam",
+        "code": "VN",
+        "emoji": "🇻🇳",
+        "image": "https://flagcdn.com/w320/vn.png",
+        "dialCode": "+84"
+    },
+    {
+        "name": "Yemen",
+        "code": "YE",
+        "emoji": "🇾🇪",
+        "image": "https://flagcdn.com/w320/ye.png",
+        "dialCode": "+967"
+    },
+    {
+        "name": "Zambia",
+        "code": "ZM",
+        "emoji": "🇿🇲",
+        "image": "https://flagcdn.com/w320/zm.png",
+        "dialCode": "+260"
+    },
+    {
+        "name": "Zimbabwe",
+        "code": "ZW",
+        "emoji": "🇿🇼",
+        "image": "https://flagcdn.com/w320/zw.png",
+        "dialCode": "+263"
+    },
+    {
+        "name": "Åland Islands",
+        "code": "AX",
+        "emoji": "🇦🇽",
+        "image": "https://flagcdn.com/w320/ax.png",
+        "dialCode": "+358"
+    },
+    {
+        "name": "Kosovo",
+        "code": "XK",
+        "emoji": "🇽🇰",
+        "image": "https://flagcdn.com/w320/xk.png",
+        "dialCode": "+383"
+    },
+    {
+        "name": "Russia",
+        "code": "RU",
+        "emoji": "🇷🇺",
+        "image": "https://flagcdn.com/w320/ru.png",
+        "dialCode": "+7"
+    },
+    {
+        "name": "Serbia",
+        "code": "RS",
+        "emoji": "🇷🇸",
+        "image": "https://flagcdn.com/w320/rs.png",
+        "dialCode": "+381"
+    },
+    {
+        "name": "South Sudan",
+        "code": "SS",
+        "emoji": "🇸🇸",
+        "image": "https://flagcdn.com/w320/ss.png",
+        "dialCode": "+211"
+    },
+    {
+        "name": "Syria",
+        "code": "SY",
+        "emoji": "🇸🇾",
+        "image": "https://flagcdn.com/w320/sy.png",
+        "dialCode": "+963"
+    },
+    {
+        "name": "Taiwan",
+        "code": "TW",
+        "emoji": "🇹🇼",
+        "image": "https://flagcdn.com/w320/tw.png",
+        "dialCode": "+886"
+    },
+    {
+        "name": "Tajikistan",
+        "code": "TJ",
+        "emoji": "🇹🇯",
+        "image": "https://flagcdn.com/w320/tj.png",
+        "dialCode": "+992"
+    },
+    {
+        "name": "Tanzania",
+        "code": "TZ",
+        "emoji": "🇹🇿",
+        "image": "https://flagcdn.com/w320/tz.png",
+        "dialCode": "+255"
+    },
+    {
+        "name": "Thailand",
+        "code": "TH",
+        "emoji": "🇹🇭",
+        "image": "https://flagcdn.com/w320/th.png",
+        "dialCode": "+66"
+    },
+    {
+        "name": "Timor-Leste",
+        "code": "TL",
+        "emoji": "🇹🇱",
+        "image": null,
+        "dialCode": "+670"
+    },
+    {
+        "name": "Togo",
+        "code": "TG",
+        "emoji": "🇹🇬",
+        "image": null,
+        "dialCode": "+228"
+    },
+    {
+        "name": "Tonga",
+        "code": "TO",
+        "emoji": "🇹🇴",
+        "image": "https://flagcdn.com/w320/to.png",
+        "dialCode": "+676"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "code": "TT",
+        "emoji": "🇹🇹",
+        "image": "https://flagcdn.com/w320/tt.png",
+        "dialCode": "+1-868"
+    },
+    {
+        "name": "Tunisia",
+        "code": "TN",
+        "emoji": "🇹🇳",
+        "image": "https://flagcdn.com/w320/tn.png",
+        "dialCode": "+216"
+    },
+    {
+        "name": "Turkey",
+        "code": "TR",
+        "emoji": "🇹🇷",
+        "image": "https://flagcdn.com/w320/tr.png",
+        "dialCode": "+90"
+    },
+    {
+        "name": "Turkmenistan",
+        "code": "TM",
+        "emoji": "🇹🇲",
+        "image": "https://flagcdn.com/w320/tm.png",
+        "dialCode": "+993"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "code": "TC",
+        "emoji": "🇹🇨",
+        "image": "https://flagcdn.com/w320/tc.png",
+        "dialCode": "+1-649"
+    },
+    {
+        "name": "Tuvalu",
+        "code": "TV",
+        "emoji": "🇹🇻",
+        "image": "https://flagcdn.com/w320/tv.png",
+        "dialCode": "+688"
+    },
+    {        
+        "name": "Uganda",
+        "code": "UG",
+        "emoji": "🇺🇬",
+        "image": "https://flagcdn.com/w320/ug.png",
+        "dialCode": "+256"
+    },
+    {       
+        "name": "Ukraine",
+        "code": "UA",
+        "emoji": "🇺🇦",
+        "image": "https://flagcdn.com/w320/ua.png",
+        "dialCode": "+380"
+    },
+    {        
+        "name": "United Arab Emirates",
+        "code": "AE",
+        "emoji": "🇦🇪",
+        "image": "https://flagcdn.com/w320/ae.png",
+        "dialCode": "+971"
+    },
+    {        
+        "name": "United Kingdom",
+        "code": "GB",
+        "emoji": "🇬🇧",
+        "image": "https://flagcdn.com/w320/gb.png",
+        "dialCode": "+44"
+    },
+    {        
+        "name": "United States",
+        "code": "US",
+        "emoji": "🇺🇸",
+        "image": "https://flagcdn.com/w320/us.png",
+        "dialCode": "+1"
+    },
+    {        
+        "name": "Uruguay",
+        "code": "UY",
+        "emoji": "🇺🇾",
+        "image": "https://flagcdn.com/w320/uy.png",
+        "dialCode": "+598"
+    },
+    {        
+        "name": "Uzbekistan",
+        "code": "UZ",
+        "emoji": "🇺🇿",
+        "image": "https://flagcdn.com/w320/uz.png",
+        "dialCode": "+998"
+    }
+]
